@@ -17,3 +17,5 @@ TODO: Create a video and post it on YouTube :D
 
 Enjoy and I hope you can understand the basic of how these cool demos were done back then.
 
+JR - @jonromero
+
