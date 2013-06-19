@@ -1,4 +1,0 @@
-eternity-demoscene
-==================
-
-Eternity - demoscene
